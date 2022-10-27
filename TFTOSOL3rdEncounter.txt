@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html>
+<head><title>TFTOSOLTheThirdEncounter</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+
+#headimage {
+  background: url(3rdEncounter.jpg);
+  background-repeat: no-repeat;
+  background-size: 100% 150%;
+}
+
+h1 {
+  text-align: center;
+}
+
+
+.btn {
+  border: none;
+  outline: none;
+  padding: 10px 16px;
+  background-color: #f1f1f1;
+  cursor: pointer;
+  font-size: 18px;
+}
+
+.active, .btn:hover {
+  background-color: SeaGreen;
+  color: white;
+}
+
+</style>
+</head>
+
+<body>
+<div id="headimage">
+<h1><br><br><br><br><br><br><br><br><br></h1>
+</div>
+
+<h1> #TFTOSOL The Third Encounter </h1> <br><br>
+<h3><i>THE ROOKIE ROCKER</i></h3><br>
+<p>
+Matapos ang klase nila Kristoff ay pinatawag sila ni Nikki, ang Organization President ng kanilang eskwelahan, para sa darating na foundation day. Naatasan si Kristoff na kasama sa mag-aayos ng gym. Agad kinalabit ni Shine si Kristoff para senyasan na tumanggi at magpalipat ng gawain dahil alam nito na gagabihin ang mga ito. Walang nagawa si Kristoff dahil alam niya kung gaano ka-istrikto si Nikki lalo pa't mainit ang dugo nito sa kaniya dahil may gusto ito sa kaibigan niyang si Shine.<br>
+
+Mag aalas-otso na ng gabi nang matapos mag-ayos ng venue sila Kristoff. Si Shine naman ay nakatanaw lang sa kaibigan. Napilitan na rin itong samahan si Kristoff upang kung sakaling magkaroon man ng kakaibang pangyayari ay agad niya itong matutulungan. Matapos maayos ang mga gamit ay agad nang niyaya ni Kristoff si Shine umuwi ngunit nagpaalam muna ito para umihi. Tumingin tingin muna si Kristoff sa mga classroom para bisitahin ang iba pang mga kasama na hindi pa rin umuuwi. Nahatak ang kaniyang atensyon ng grupo ng mga tumutugtog kaya't sinilip niya ito.<br>
+
+"Ang ganda naman sa pandinig ng tinutugtog nila." agad napako ang tingin ni Kristoff sa kumakanta matapos banggitin ang mga katagang iyon. Tila ba para siyang hinehele ng tunog kahit alam niyang rock ang genre ng mga ito. May kung ano siyang kakaibang nararamdaman na para bang nakakapagpatanggal ng kaniyang pagod. Hindi.. hindi lamang ang pagod niya ang natatanggal kundi pati na rin ang mabibigat na dinadala niya. Nang walang anu-ano'y gumawi ang paningin ng bokalista sa kaniya. Agad namang nagtago si Kristoff sa hindi niya alam na dahilan. Ambilis ng tibok ng kaniyang puso na para bang nagtatago siya sa isang mamamatay tao.<br>
+
+"Ano ka ba Kristoff? Wala ka naman ginagawang masama. Nakikinig ka lang. Bakit ka nagtatago?" Bulong niya sa kaniyang sarili<br>
+
+"Oo nga bakit ka nagtatago. Anong meron?" banggit ng boses na lubhang ikinagulat ni Kristoff lalo na at malamig ang pagkakahawak nito sa kaniya.<br>
+
+"Shine! Ano ka ba naman ginulat mo ko. Hindi ko alam minsan kung nililigtas mo ba 'ko o gusto mo kong patayin sa atake sa puso. Tsaka bakit anlamig ng kamay mo? Hindi ka na naman nagpunas? Kadiri ka, kababae mong tao ang balahura mo." dere-deretsong banggit ni Kristoff<br>
+
+"Galit na galit? Ano ba kasing inuusisa mo dyan at nagtatago ka? Tsaka excuse me, nagpunas ako ng kamay tsaka hindi naman kita hinawakan." banggit ni Shine habang nakasilip sa bandang inuusisa ng kaibigan<br>
+
+Bigla siyang hinila ni Kristoff kaya't hindi na masyadong nasilip ni Shine ang mga kumakanta, gayunpaman parang pamilyar ang lalaking bokalista kahit konti lamang ang nakita niya rito. Hindi na nagawang isipin ni Shine ang tungkol dito dahil agad siyang kinuwento ni Kristoff tungkol sa pagiging kalmado ng gabi niya sa naturang eskwelahan habang nag-aayos ng mga kakailanganin para sa darating na Foundation Day<br><br><br>
+
+                                                                   ---------------------------------------------------------<br><br><br>
+
+Dumating na nga ang Foundation Day ng eskwelahan. Nagagalak na inaantay ni Kristoff ang araw na ito dahil alam niyang pinagpaguran nila ang paghahanda dito. Hindi, dahil alam niyang maraming kakaibang programa ang mapapanood niya. Tama! mahilig siya sa mga sports at iba't ibang patimpalak at isa pa magkakaroon siya ng pahinga para sa mga aralin.<br>
+
+Pilit kinukumbinsi ni Kristoff ang sarili sa mga isipin na iyon ngunit ang totoo ay hindi niya alam kung bakit lubha siyang natutuwa ng araw na iyon. Muling sumagi sa isip niya ang grupo ng mga manunugtog noong isang gabi nang matapos silang mag-ayos.<br>
+
+"Inaabangan ko ba ang pagtugtog nila?" Tanong ni Kristoff sa kaniyang sarili habang todo ang pag-iling<br>
+
+Agad napawi ang isipin na iyon ng magsimulang magtilian ang mga estudyante.<br><br>
+
+"Please welcome our very own ROCK ROOKIES"<br><br>
+
+Lalo pang lumakas ang tilian nang umakyat na sa stage ang grupo. Nagpakilala ang bawat isa sa kanila bago ito tumugtog. Malakas na sigawan ang muling binigay ng mga estudyante ng magpakilala ang bokalista nito. Samantala, si Kristoff naman ay hinahanap ang kaibigang si Shine para samahan siya sa pakikinig nang maalala niya na hindi nga pala pwede si Shine sa pwesto niya dahil pawang miyembro lamang ng organisasyon ang pinayagan pumuwesto sa harap kasama ng mga guro at mga magulang. Nagpokus na lamang si Kristoff sa mga tumutugtog.<br><br>
+
+♫ Hay.. yan ka na naman<br>
+Malayo ang iyong tanaw<br>
+Hindi ka ba napapagod<br>
+Ang mga mata'y tuloy ang pagsunod<br>
+Sa galaw ng ulap, sayaw ng dahon<br>
+Ang kawalan parang ika'y nilalamon<br>
+May problema bang hindi ka.. makaahon ♫<br><br>
+
+♫ Naglalakad tuloy-tuloy, hindi man lang lumilingon<br>
+Sana'y may sulyap na pabaon, bago matapos ang hapon ♫<br><br>
+
+Parang lumulutang sa kawalan si Kristoff habang nakatitig lamang sa kumakanta. Hindi niya mawari ang pakiramdam. Piling niya ay nakatingin din sa kaniya ang bokalista at parang siya ang kinakantahan nito.<br><br>
+
+♫ Lilipas na ang mga araw<br>
+    Ikaw parin ang nais matanaw<br>
+    Mukha mo ay laging naiisip ko<br>
+    Ikaw ang nilalaman nitong puso<br>
+    Sana'y makamit ang mithi<br>
+    Bukas sabay na tayong ngingiti ♫<br><br>
+
+"Ang ganda ng boses ng kumakanta, ano?" banggit ng isang lalaki<br>
+
+Napatango na lamang si Kristoff na parang wala sa sarili.<br>
+
+"Original song nila yan. Kahit mga rookie pa lamang sila idol ko na ang mga yan. Sigurado ko sisikat sila balang araw" pagpapatuloy pa ng lalaki<br>
+
+Tumatango naman si Kristoff na kahit napapakinggan ang sinasabi ng lalaki ay nasa ibang mundo ang katawan nito.<br>
+
+"Ang gwapo pa nung bokalista, parang ikaw. Piling ko nga bagay kayo" napapangising banggit ng lalaki<br>
+
+"Kaya nga." wala sa sariling turan ni Kristoff<br>
+
+Bumalik lamang siya sa ulirat nang mapagtanto nito ang sinabi ng kausap na lalaki.<br>
+
+"Ayy, pasensya na mali ang inaakala mo. I mean, oo nga ang gwapo nga nung bokalista kaya nga andaming nagtitilian at mukhang sikat siya sa iskul." depensa ni Kristoff habang namumula sa hiya<br>
+
+Natatawa naman ang lalaki. "Wala 'yun binibiro lang kita kasi kitang kita na nag-eenjoy ka sa panonood. Ako nga pala si Arthur, kuya ko pala 'yung bokalista. You can call me Art if you want"<br>
+
+Nakipagkamay naman si Kristoff. "Kristoff nga pala."<br>
+
+"Baka gusto mong samahan ako mamaya sa backstage. Ipapakilala kita kay kuya. Mukhang nahook ka na rin sa musika nila at parang magaan naman ang loob ko sayo." anyaya ni Art kay Kristoff na kahit nakikipag-usap ay hindi maalis ang pokus sa pakikinig sa banda<br>
+
+"Oo ba! Sige salamat ha." biglang sagot naman ni Kristoff nang muli ay nagulat sa sinagot niya<br>
+
+"I mean, salamat na lang baka naman makaistorbo ko niyan sa kuya mo." pabawing turan nito<br>
+
+"Okay lang, kunwari ka pa nadulas ka na eh" nakangiti namang pambubuska ni Art kay Kristoff habang napapailing. Giliw na giliw ito sa kaniya na animo'y matagal na niyang kakilala.<br><br><br>
+
+                                                                   ---------------------------------------------------------<br><br><br>
+
+Sa backstage. Matapos ang opening program ay agad tumungo sila Art at Kristoff sa kinaroroonan ng grupo ng mga rakista.<br>
+
+"Kuya, kuya" nagmamadaling lumapit si Art sa kaniyang kuya nang matanaw niya ito. Nahihiya namang sumunod si Kristoff.<br>
+
+"Ohh Art, napanood mo ba kami? Ang galing ko 'di ba? Dami ko na naman pinakilig" pagmamayabang nito sa kapatid na mahahalatang close na close sa isa't-isa<br>
+
+"Sino pala 'yang sinama mo dito? Sabihin mong kaibigan mo 'yan eh grade 12 na yan" dagdag pa ng lalaki nang mapansing may kabuntot si Art<br>
+
+"Ahhh, oo kaibigan ko kanina lang. Napansin ko kasing tutok na tutok siya sa pakikinig sayo. At mukha naman magaan ang loob ko sa kanya kaya dinala ko dito para naman makilala ka niya. Oh di ba, ang galing ko kuya may nadagdag na naman ako sa fans club mo" nakangising banggit naman ni Art sa kapatid<br>
+
+"Dagdag nga, lalaki naman. Wala ka talagang silbi" pabiro at pabulong na banggit ng lalaki kay Art. May inabot itong parang USB kay Kristoff.<br>
+
+"Ahmmm, ano naman 'to?" nagtatakang tanong ni Kristoff habang nakayuko at nahihiya pa rin sa kausap<br>
+
+"USB." pabirong sagot naman ng lalaki. Agad din itong nagseryoso nang makitang hindi natuwa ang kausap. "Bigay ko 'yan sayo. naka-save diyan 'yung kinanta namin kanina. Freebie ko 'yan sa mga dinadalang fans ni Art sakin. At mukha namang titig na titig ka rin sakin kanina." natatawa nitong pambubuska<br>
+
+"Bao nga pala" pakilala ng lalaki nang nagkakapalagayan na sila ng loob.<br>
+
+Nagpaalam na si Kristoff nang matanaw ang papalapit na kaibigan.<br>
+
+"Sige, sige at aalis na rin naman kami para manood ng laban ng basketball ng mga klasmeyt namin" paalam ni Bao sa papaalis na si Kristoff na animo'y nanalo sa swipsteyk ang ngiti habang papalayong kumakaway
+ </p><br><br><br>
+
+<div id="myDIV">
+  <a href="https://taim00.github.io/tftosol/"><button class="btn">Home</button></a>
+  <a href="https://taim00.github.io/tftosol-the-first-encounter/"><button class="btn">FirstEncounter</button></a>
+  <a href="https://taim00.github.io/tftosol-the-second-encounter/"><button class="btn">Second Encounter</button></a>
+  <a href="https://taim00.github.io/tftosol-the-third-encounter/"><button class="btn active">ThirdEncounter</button></a>
+  <a href="https://taim00.github.io/tftosol-the-fourth-encounter/"><button class="btn">FourthEncounter</button></a>
+  <a href="https://taim00.github.io/tftosol-the-fifth-encounter/"><button class="btn">FifthEncounter</button></a>
+  <a href="https://taim00.github.io/tftosol-the-sixth-encounter/"><button class="btn">SixthEncounter</button></a>
+  <a href="https://taim00.github.io/tftosol-the-lucky-encounter/"><button class="btn">LuckyEncounter</button></a>
+</div> <br><br>
+
+<b></b><p style="color:OrangeRed; font-family:Verdana; font-size:15px"><b>Instagram: <a href="https://www.instagram.com/time4t.a.i.m/" target="_blank"; style="color:MediumSeaGreen;">@TaimNrokap</a></b>
+<b></b><p style="color:OrangeRed; font-family:Verdana; font-size:15px"><b>Facebook: <a href="https://www.facebook.com/taim.nrokap" target="_blank"; style="color:MediumSeaGreen;">Taim Nrokap</a></b>
+
+<script>
+var header = document.getElementById("myDIV");
+var btns = header.getElementsByClassName("btn");
+for (var i = 0; i < btns.length; i++) {
+  btns[i].addEventListener("click", function() {
+  var current = document.getElementsByClassName("active");
+  current[0].className = current[0].className.replace(" active", "");
+  this.className += " active";
+  });
+}
+</script>
+
+  </p></div>
+</div>
+
+</body>
+</html>
